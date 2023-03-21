@@ -1,0 +1,9 @@
+{
+  "in-map": "على الخريطة",
+  "search": "فلتر",
+  "hotels": "فنادق",
+  "available-x-hotels": "{{hotels}} فندق متوفر ",
+  "for-x-nights": "لمدة {{nights}} ليالٍ",
+  "best-value": "أفضل قيمة",
+  "clients-number":"عدد النزلاء"
+}
